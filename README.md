@@ -8,7 +8,7 @@ Esse clone do Nubank foi feito em Dart e Flutter. Todos os dados foram pegos de 
 
 ## 🚀 Tecnologias e ferramentas utilizadas
 * Dart
-* Flutter Web
+* Flutter
 
 ## 📊 Status do projeto
 ✅ Concluído
